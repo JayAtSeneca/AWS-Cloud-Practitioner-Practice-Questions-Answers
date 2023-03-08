@@ -13,3 +13,21 @@
 - [x] AWS SQS
 - [ ] AWS Artifact
 - [ ] Amazon Cloudfront.
+
+###  Which of the following are types of AWS Identity and Access Management (IAM) identities? (Choose TWO)
+
+- [x] IAM Roles
+- [x] IAM Users
+- [ ] IAM Policies
+- [ ] AWS Resource Groups
+- [ ] AWS Organizations
+
+### Which features are included in the AWS Business Support Plan? (Choose TWO)
+
+- [x] 24x7 access to AWS Customer Service
+- [x] Access to Infrastructure Event Management for additional fee
+- [ ] 24x7 access to the TAM feature
+- [ ] Access to Cloud Support Engineers via email only during business hours" is incorrect
+- [ ] Partial access to the core Trusted Advisor checks
+
+
