@@ -6,3 +6,10 @@
 - [ ] AWS API.
 - [ ] AWS SDK.
 - [x] AWS Management Console.
+
+### An organization has a legacy application designed using monolithic-based architecture. Which AWS Service can be used to decouple the components of the application?
+
+- [ ] Virtual Private Gateway
+- [x] AWS SQS
+- [ ] AWS Artifact
+- [ ] Amazon Cloudfront.
