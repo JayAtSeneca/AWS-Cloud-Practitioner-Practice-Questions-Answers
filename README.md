@@ -175,6 +175,48 @@
 - [ ] All trusted IAM users should have access to any AWS service in the respective AWS account.
 - [ ] IAM users should not be granted any permissions; to keep your account safe.
 
+### Which of the following does NOT belong to the AWS Cloud Computing models?
+
+- [ ] Platform as a Service (PaaS).
+- [ ] Infrastructure as a Service (1aaS).
+- [ ] Software as a Service (SaaS).
+- [x] Networking as a Service (NaaS).
+
+### The identification process of an online financial services company requires that new users must complete an online interview with their security team. The completed recorded interviews are only required in the event of a legal issue or a regulatory compliance breach. What is the most cost-effective service to store the recorded videos?
+
+- [ ] S3 Intelligent-Tiering.
+- [ ] AWS Marketplace.
+- [x] Amazon S3 Glacier Deep Archive.
+- [ ] Amazon EBS.
+
+### Which service provides DNS in the AWS cloud?
+
+- [x] Route 53.
+- [ ] AWS Config.
+- [ ] Amazon CloudFront.
+- [ ] Amazon EMR.
+
+### Hundreds of thousands of DDoS attacks are recorded every month worldwide. What service does AWS provide to help protect AWS Customers from these attacks? (Choose TWO)
+
+- [x] AWS Shield.
+- [ ] AWS Config.
+- [ ] Amazon Cognito.
+- [x] AWS WAF.
+- [ ] AWS KMS.
+
+### A company is deploying a new two-tier web application in AWS. Where should the most frequently accessed data be stored so that the application’s response time is optimal?
+
+- [ ] AWS OpsWorks.
+- [ ] AWS Storage Gateway.
+- [ ] Amazon EBS volume.
+- [x] Amazon ElastiCache.
+
+### You want to run a questionnaire application for only one day (without interruption), which Amazon EC2 purchase option should you use?
+
+- [ ] Reserved instances.
+- [ ] Spot instances.
+- [ ] Dedicated instances.
+- [x] On-demand instances.
 
 
 
