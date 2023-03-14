@@ -74,7 +74,26 @@
 - [ ] An Exabyte-scale data transfer service that allows you to move extremely large amounts of data to AWS.
 - [x] Secure transfer of large amounts of data into and out of the AWS.
 
+### A company has an AWS Enterprise Support plan. They want quick and efficient guidance with their billing and account inquiries. Which of the following should the company use?
 
+- [ ] AWS Health Dashboard.
+- [x] AWS Support Concierge.
+- [ ] AWS Customer Service.
+- [ ] AWS Operations Support.
+
+### A Japanese company hosts their applications on Amazon EC2 instances in the Tokyo Region. The company has opened new branches in the United States, and the US users are complaining of high latency. What can the company do to reduce latency for the users in the US while minimizing costs?
+
+- [ ] Applying the Amazon Connect latency-based routing policy.
+- [ ] Registering a new US domain name to serve the users in the US.
+- [ ] Building a new data center in the US and implementing a hybrid model.
+- [x] Deploying new Amazon EC2 instances in a Region located in the US.
+
+### An organization has a large number of technical employees who operate their AWS Cloud infrastructure. What does AWS provide to help organize them into teams and then assign the appropriate permissions for each team?
+
+- [ ] IAM roles.
+- [ ] IAM users.
+- [x] IAM user groups.
+- [ ] AWS Organizations.
 
 
 
