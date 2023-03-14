@@ -350,3 +350,28 @@
 - [ ] AWS Management Console.
 - [ ] AWS Secrets Manager.
 - [x] AWS Trusted Advisor.
+
+### Which of the following is not a benefit of Amazon S3? (Choose TWO)
+
+- [ ] Amazon S3 provides unlimited storage for any type of data.
+- [x] Amazon S3 can run any type of application or backend system.
+- [ ] Amazon S3 stores any number of objects, but with object size limits.
+- [x] Amazon S3 can be scaled manually to store and retrieve any amount of data from anywhere.
+- [ ] Amazon S3 provides 99.999999999% (11 9’s) of data durability.
+
+### In the AWS Shared responsibility Model, which of the following are the responsibility of the customer? (Choose TWO)
+
+- [ ] Disk disposal.
+- [ ] Controlling physical access to compute resources.
+- [ ] Patching the Network infrastructure.
+- [x] Setting password complexity rules.
+- [x] Configuring network access rules.
+
+### What does AWS provide to deploy popular technologies such as IBM MQ on AWS with the least amount of effort and time?
+
+- [ ] Amazon Aurora.
+- [ ] Amazon CloudWatch.
+- [x] AWS Quick Start reference deployments.
+- [ ] AWS OpsWorks.
+
+
