@@ -277,4 +277,76 @@
 - [ ] User name and password.
 
 
+### You have AWS Basic support, and you have discovered that some AWS resources are being used maliciously, and those resources could potentially compromise your data. What should you do?
 
+- [ ] Contact the AWS Customer Service team.
+- [x] Contact the AWS Abuse team.
+- [ ] Contact the AWS Concierge team.
+- [ ] Contact the AWS Security team.
+
+### Select TWO examples of the AWS shared controls.
+
+- [x] Patch Management.
+- [ ] IAM Management.
+- [ ] VPC Management.
+- [x] Configuration Management.
+- [ ] Data Center operations.
+
+### In order to implement best practices when dealing with a “Single Point of Failure,” you should attempt to build as much automation as possible in both detecting and reacting to failure. Which of the following AWS services would help? (Choose TWO)
+
+- [x] ELB.
+- [x] Auto Scaling.
+- [ ] Amazon Athen.
+- [ ] ECR.
+- [ ] Amazon EC2.
+
+
+### A company is planning to host an educational website on AWS. Their video courses will be streamed all around the world. Which of the following AWS services will help achieve high transfer speeds?
+
+- [ ] Amazon SNS.
+- [ ] Amazon Kinesis Video Streams.
+- [ ] AWS CloudFormation.
+- [x] Amazon CloudFront.
+
+### A developer is planning to build a two-tier web application that has a MySQL database layer. Which of the following AWS database services would provide automated backups for the application?
+
+- [ ] A MySQL database installed on an EC2 instance.
+- [x] Amazon Aurora.
+- [ ] Amazon DynamoDB.
+- [ ] Amazon Neptune.
+
+### What is the AWS service that enables AWS architects to manage infrastructure as code?
+
+- [x] AWS CloudFormation.
+- [ ] AWS Config.
+- [ ] Amazon SES.
+- [ ] Amazon EMR.
+
+### Under the shared responsibility model, which of the following is the responsibility of AWS?
+
+- [ ] Client-side encryption.
+- [x] Configuring infrastructure devices.
+- [ ] Server-side encryption.
+- [ ] Filtering traffic with Security Groups.
+
+### What does the AWS Health Dashboard provide? (Choose TWO)
+
+- [x] Detailed troubleshooting guidance to address AWS events impacting your resources.
+- [ ] Health checks for Auto Scaling instances.
+- [ ] Recommendations for Cost Optimization.
+- [ ] A dashboard detailing vulnerabilities in your applications.
+- [x] Personalized view of AWS service health.
+
+### You have deployed your application on multiple Amazon EC2 instances. Your customers complain that sometimes they can’t reach your application. Which AWS service allows you to monitor the performance of your EC2 instances to assist in troubleshooting these issues?
+
+- [ ] AWS Lambda.
+- [ ] AWS Config.
+- [x] Amazon CloudWatch.
+- [ ] AWS CloudTrail.
+
+### Your company is developing a critical web application in AWS, and the security of the application is a top priority. Which of the following AWS services will provide infrastructure security optimization recommendations?
+
+- [ ] AWS Shield.
+- [ ] AWS Management Console.
+- [ ] AWS Secrets Manager.
+- [x] AWS Trusted Advisor.
