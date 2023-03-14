@@ -44,5 +44,37 @@
 - [ ] AWS Trusted Advisor.
 - [ ] EC2 Instance Usage Report.
 
+### Which of the below options are related to the reliability of AWS? (Choose TWO)
+
+- [ ] Applying the principle of least privilege to all AWS resources.
+- [x] Automatically provisioning new resources to meet demand.
+- [ ] All AWS services are considered Global Services, and this design helps customers serve their international users.
+- [ ] Providing compensation to customers if issues occur.
+- [x] Ability to recover quickly from failures.
+
+### You have set up consolidated billing for several AWS accounts. One of the accounts has purchased a number of reserved instances for 3 years. Which of the following is true regarding this scenario?
+
+- [ ] The Reserved Instance discounts can only be shared with the master account.
+- [x] All accounts can receive the hourly cost benefit of the Reserved Instances (Comect).
+- [ ] The purchased instances will have better performance than On-demand instances.
+- [ ] There are no cost benefits from using consolidated billing; It is for informational purposes only.
+
+### A company has developed an eCommerce web application in AWS. What should they do to ensure that the application has the highest level of availability?
+
+- [ ] Deploy the application across multiple Availability Zones and Edge locations.
+- [ ] Deploy the application across multiple Availability Zones and subnets.
+- [x] Deploy the application across multiple Regions and Availability Zones (Co ).
+- [ ] Deploy the application across multiple VPC’s and subnets.
+
+### What does AWS Snowball provide? (Choose TWO)
+
+- [x] Built-in computing capabilities that allow customers to process data locally.
+- [ ] A catalog of third-party software solutions that customers need to build solutions and run their businesses.
+- [ ] A hybrid cloud storage between on-premises environments and the AWS Cloud.
+- [ ] An Exabyte-scale data transfer service that allows you to move extremely large amounts of data to AWS.
+- [x] Secure transfer of large amounts of data into and out of the AWS.
+
+
+
 
 
