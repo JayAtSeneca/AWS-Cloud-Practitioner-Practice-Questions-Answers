@@ -374,4 +374,30 @@
 - [x] AWS Quick Start reference deployments.
 - [ ] AWS OpsWorks.
 
+### An organization has decided to purchase an Amazon EC2 Reserved Instance (RI) for three years in order to reduce costs. It is possible that the application workloads could change during the reservation period. What is the EC2 Reserved Instance (RI) type that will allow the company to exchange the purchased reserved instance for another reserved instance with higher computing power if they need to?
 
+- [ ] Elastic RI.
+- [ ] Premium RI.
+- [ ] Standard RI.
+- [x] Convertible RI.
+
+### A global company with a large number of AWS accounts is seeking a way in which they can centrally manage billing and security policies across all accounts. Which AWS Service will assist them in meeting these goals?
+
+- [x] AWS Organizations.
+- [ ] AWS Trusted Advisor.
+- [ ] IAM User Groups.
+- [ ] AWS Config.
+
+### A global company with a large number of AWS accounts is seeking a way in which they can centrally manage billing and security policies across all accounts. Which AWS Service will assist them in meeting these goals?
+
+- [x] AWS Organizations.
+- [ ] AWS Trusted Advisor.
+- [ ] IAM User Groups.
+- [ ] AWS Config.
+
+### A global company with a large number of AWS accounts is seeking a way in which they can centrally manage billing and security policies across all accounts. Which AWS Service will assist them in meeting these goals?
+
+- [x] AWS Organizations.
+- [ ] AWS Trusted Advisor.
+- [ ] IAM User Groups.
+- [ ] AWS Config.
