@@ -95,5 +95,41 @@
 - [x] IAM user groups.
 - [ ] AWS Organizations.
 
+### A company has decided to migrate its Oracle database to AWS. Which AWS service can help achieve this without negatively impacting the functionality of the source database?
+
+- [ ] AWS OpsWorks.
+- [x] AWS Database Migration Service.
+- [ ] AWS Server Migration Service.
+- [ ] AWS Application Discovery Service.
+
+### Adjusting compute capacity dynamically to reduce cost is an implementation of which AWS cloud best practice?
+
+- [ ] Build security in every layer.
+- [ ] Parallelize tasks.
+- [x] Implement elasticity.
+- [ ] Adopt monolithic architecture.
+
+### What are the benefits of having infrastructure hosted in AWS? (Choose TWO)
+
+- [x] Increasing speed and agility.
+- [ ] There is no need to worry about security.
+- [ ] Gaining complete control over the physical infrastructure.
+- [ ] Operating applications on behalf of customers.
+- [x] All of the physical security and most of the data/network security are taken care of for you.
+
+### What is the advantage of the AWS-recommended practice of "decoupling" applications?
+
+- [ ] Allows treating an application as a single, cohesive unit.
+- [x] Reduces inter-dependencies so that failures do not impact other components of the application.
+- [ ] Allows updates of any monolithic application quickly and easily.
+- [ ] Allows tracking of any API call made to any AWS service.
+
+### Which of the following helps a customer view the Amazon EC2 billing activity for the past month?
+
+- [ ] AWS Budgets.
+- [ ] AWS Pricing Calculator.
+- [ ] AWS Systems Manager.
+- [x] AWS Cost & Usage Reports.
+
 
 
