@@ -131,5 +131,50 @@
 - [ ] AWS Systems Manager.
 - [x] AWS Cost & Usage Reports.
 
+### What do you gain from setting up consolidated billing for five different AWS accounts under another master account?
+
+- [ ] AWS services’ costs will be reduced to half the original price.
+- [ ] The consolidated billing feature is just for organizational purpose.
+- [x] Each AWS account gets volume discounts.
+- [ ] Each AWS account gets five times the free-tier services capacity.
+
+### What should you do in order to keep the data on EBS volumes safe? (Choose TWO)
+
+- [ ] Regularly update firmware on EBS devices.
+- [x] Create EBS snapshots.
+- [x] Ensure that EBS data is encrypted at rest.
+- [ ] Store a backup daily in an external drive.
+- [ ] Prevent any unauthorized access to AWS data centers.
+
+### One of the most important AWS best-practices to follow is the cloud architecture principle of elasticity. How does this principle improve your architecture’s design?
+
+- [ ] By automatically scaling your on-premises resources based on changes in demand.
+- [ ] By automatically scaling your AWS resources using an Elastic Load Balancer.
+- [ ] By reducing interdependencies between application components wherever possible.
+- [x] By automatically provisioning the required AWS resources based on changes in demand.
+
+### A startup company is operating on limited funds and is extremely concerned about cost overruns. Which of the below options can be used to notify the company when their monthly AWS bill exceeds $2000? (Choose TWO)
+
+- [x] Setup a CloudWatch billing alarm that triggers an SNS notification when the threshold is exceeded.
+- [ ] Configure the Amazon Simple Email Service to send billing alerts to their email address on a daily basis.
+- [x] Configure the AWS Budgets Service to alert the company when the threshold is exceeded.
+- [ ] Configure AWS CloudTrail to automatically delete all AWS resources when the threshold is exceeded.
+- [ ] Configure the Amazon Connect Service to alert the company when the threshold is exceeded.
+
+### What does Amazon CloudFront use to distribute content to global users with low latency?
+
+- [ ] AWS Global Accelerator.
+- [ ] AWS Regions.
+- [x] AWS Edge Locations.
+- [ ] AWS Availability Zones.
+
+### What does the "Principle of Least Privilege" refer to?
+
+- [x] You should grant your users only the permissions they need when they need them and nothing more.
+- [ ] AllIAM users should have at least the necessary permissions to access the core AWS services.
+- [ ] All trusted IAM users should have access to any AWS service in the respective AWS account.
+- [ ] IAM users should not be granted any permissions; to keep your account safe.
+
+
 
 
