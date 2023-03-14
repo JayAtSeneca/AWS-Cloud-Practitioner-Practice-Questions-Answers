@@ -425,6 +425,49 @@
 - [ ] Amazon S3 Standard.
 - [ ] Amazon S3 Standard-Infrequent Access.
 
+### What is the AWS database service that allows you to upload data structured in key-value format?
+
+- [x] Amazon DynamoDB.
+- [ ] Amazon Aurora.
+- [ ] Amazon Redshift.
+- [ ] Amazon RDS.
+
+### Which of the following is NOT correct regarding Amazon EC2 On-demand instances?
+
+- [x] You have to pay a start-up fee when launching a new instance for the first time.
+- [ ] The on-demand instances follow the AWS pay-as-you-go pricing model.
+- [ ] With on-demand instances, no longer-term commitments or upfront payments are needed.
+- [ ] When using on-demand Linux instances, you are charged per second based on an hourly rate.
+
+### A company has moved to AWS recently. Which of the following AWS Services will help ensure that they have the proper security settings? (Choose TWO)
+
+- [x] AWS Trusted Advisor.
+- [x] Amazon Inspector.
+- [ ] Amazon SNS.
+- [ ] Amazon CloudWatch.
+- [ ] Concierge Support Team.
+
+### What is the AWS feature that provides an additional level of security above the default authentication mechanism of usernames and passwords?
+
+- [ ] Encrypted keys.
+- [ ] Email verification.
+- [ ] AWS KMS.
+- [x] AWS MFA.
+
+### A company is introducing a new product to their customers, and is expecting a surge in traffic to their web application. As part of their Enterprise Support plan, which of the following provides the company with architectural and scaling guidance?
+
+- [ ] AWS Knowledge Center.
+- [ ] AWS Health Dashboard.
+- [x] Infrastructure Event Management.
+- [ ] AWS Support Concierge Service.
+
+### You work as an on-premises MySQL DBA. The work of database configuration, backups, patching, and DR can be time-consuming and repetitive. Your company has decided to migrate to the AWS Cloud. Which of the following can help save time on database maintenance so you can focus on data architecture and performance?
+
+- [x] Amazon RDS.
+- [ ] Amazon Redshift.
+- [ ] Amazon DynamoDB.
+- [ ] Amazon CloudWatch.
+
 
 
 # End
