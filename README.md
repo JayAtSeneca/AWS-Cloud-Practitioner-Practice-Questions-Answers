@@ -219,4 +219,26 @@
 - [x] On-demand instances.
 
 
+### You are working on a project that involves creating thumbnails of millions of images. Consistent uptime is not an issue, and continuous processing is not required. Which EC2 buying option would be the most cost-effective?
+
+- [ ] Reserved Instances.
+- [ ] On-demand Instances.
+- [ ] Dedicated Instances.
+- [x] Spot Instances.
+
+### Which of the following can be described as a global content delivery network (CDN) service?
+
+- [ ] AWS VPN.
+- [ ] AWS Direct Connect.
+- [ ] AWS Regions.
+- [x] Amazon CloudFront.
+
+### Which of the following services allows customers to manage their agreements with AWS?
+
+- [x] AWS Artifact.
+- [ ] AWS Certificate Manager.
+- [ ] AWS Systems Manager.
+- [ ] AWS Organizations.
+
+
 
