@@ -240,5 +240,41 @@
 - [ ] AWS Systems Manager.
 - [ ] AWS Organizations.
 
+### Which of the following are examples of AWS-Managed Services, where AWS is responsible for the operational and maintenance burdens of running the service? (Choose TWO)
+
+- [ ] Amazon VPC.
+- [x] Amazon DynamoDB.
+- [x] Amazon Elastic MapReduce.
+- [ ] AWS IAM.
+- [ ] Amazon Elastic Compute Cloud.
+
+### Your company has a data store application that requires access to a NoSQL database. Which AWS database offering would meet this requirement?
+
+- [ ] Amazon Aurora.
+- [x] Amazon DynamoDB.
+- [ ] Amazon Elastic Block Store.
+- [ ] Amazon Redshift.
+
+### As part of the Enterprise support plan, who is the primary point of contact for ongoing support needs?
+
+- [ ] AWS Identity and Access Management (IAM) user.
+- [ ] Infrastructure Event Management (IEM) engineer.
+- [ ] AWS Consulting Partners.
+- [x] Technical Account Manager (TAM).
+
+### How can you view the distribution of AWS spending in one of your AWS accounts?
+
+- [ ] By using Amazon VPC console.
+- [ ] By contacting the AWS Support team.
+- [x] By using AWS Cost Explorer.
+- [ ] By contacting the AWS Finance team.
+
+### Which of the following must an IAM user provide to interact with AWS services using the AWS Command Line Interface (AWS CLI)?
+
+- [x] Access keys.
+- [ ] Secret token.
+- [ ] UserID.
+- [ ] User name and password.
+
 
 
