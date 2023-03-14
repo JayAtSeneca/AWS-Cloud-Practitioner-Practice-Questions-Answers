@@ -468,6 +468,40 @@
 - [ ] Amazon DynamoDB.
 - [ ] Amazon CloudWatch.
 
+### Which of the below is a best-practice when designing solutions on AWS?
 
+- [ ] Invest heavily in architecting your environment, as it is not easy to change your design later.
+- [ ] Use AWS reservations to reduce costs when testing your production environment.
+- [x] Automate wherever possible to make architectural (© ) experimentation easier.
+- [ ] Provision a large compute capacity to handle any spikes in load
+
+### According to the AWS Acceptable Use Policy, which of the following statements is true regarding penetration testing of EC2 instances?
+
+- [ ] Penetration testing is not allowed in AWS.
+- [ ] Penetration testing is performed automatically by AWS to determine vulnerabilities in your AWS infrastructure.
+- [x] Penetration testing can be performed by the customer on their own instances without prior authorization from AWS.
+- [ ] The AWS customers are only allowed to perform penetration testing on services managed by AWS.
+
+### Which service is used to ensure that messages between software components are not lost if one or more components fail?
+
+- [x] Amazon SQS.
+- [ ] Amazon SES.
+- [ ] AWS Direct Connect.
+- [ ] Amazon Connect.
+
+### The principle “design for failure and nothing will fail” is very important when designing your AWS Cloud architecture. Which of the following would help adhere to this principle? (Choose TWO)
+
+- [ ] Multi-factor authentication.
+- [x] Availability Zones.
+- [x] Elastic Load Balancing.
+- [ ] Penetration testing.
+- [ ] Vertical Scaling.
+
+### What is the AWS service that provides a virtual network dedicated to your AWS account?
+
+- [ ] AWS VPN.
+- [ ] AWS Subnets.
+- [ ] AWS Dedicated Hosts.
+- [x] Amazon VPC.
 
 # End
