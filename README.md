@@ -401,3 +401,24 @@
 - [ ] AWS Trusted Advisor.
 - [ ] IAM User Groups.
 - [ ] AWS Config.
+
+### A company is concerned that they are spending money on underutilized compute resources in AWS. Which AWS feature will help ensure that their applications are automatically adding/removing EC2 compute capacity to closely match the required demand?
+
+- [ ] AWS Elastic Load Balancer.
+- [ ] AWS Budgets.
+- [x] AWS Auto Scaling.
+- [ ] AWS Cost Explorer.
+
+### Which S3 storage class is best for data with unpredictable access patterns?
+
+- [x] Amazon S3 Intelligent-Tiering.
+- [ ] Amazon S3 Glacier Flexible Retrieval.
+- [ ] Amazon S3 Standard.
+- [ ] Amazon S3 Standard-Infrequent Access.
+
+### Which S3 storage class is best for data with unpredictable access patterns?
+
+- [x] Amazon S3 Intelligent-Tiering.
+- [ ] Amazon S3 Glacier Flexible Retrieval.
+- [ ] Amazon S3 Standard.
+- [ ] Amazon S3 Standard-Infrequent Access.
