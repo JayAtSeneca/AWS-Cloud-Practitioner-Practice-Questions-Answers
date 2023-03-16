@@ -635,5 +635,36 @@
 - [ ] Virtualized compute resources.
 - [ ] Dedicated hosting.
 
+### Which of the following aspects of security are managed by AWS? (Choose TWO)
+
+- [ ] Encryption of EBS volumes.
+- [ ] VPC security.
+- [ ] Access permissions.
+- [x] Hardware patching.
+- [x] Securing global physical infrastructure.
+
+### Which statement best describes the operational excellence pillar of the AWS Well-Architected Framework?
+
+- [ ] The ability of a system to recover gracefully from failure.
+- [ ] The efficient use of computing resources to meet requirements.
+- [x] The ability to monitor systems and improve supporting processes and procedures.
+- [ ] The ability to manage datacenter operations more efficiently.
+
+### AWS has created a large number of Edge Locations as part of its Global Infrastructure. Which of the following is NOT a benefit of using Edge Locations?
+
+- [ ] Edge locations are used by CloudFront to cache the most recent responses.
+- [ ] Edge locations are used by CloudFront to improve your end users’ experience when uploading files.
+- [x] Edge locations are used by CloudFront to distribute traffic across multiple instances to reduce latency.
+- [ ] Edge locations are used by CloudFront to distribute content to global users with low latency.
+
+### What are the change management tools that helps AWS customers audit and monitor all resource changes in their AWS environment? (Choose TWO)
+
+- [x] AWS CloudTrail.
+- [ ] Amazon Comprehend.
+- [ ] AWS Transit Gateway.
+- [ ] AWS X-Ray.
+- [x] AWS Config.
+
+
 
 # End
