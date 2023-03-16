@@ -679,6 +679,34 @@
 - [ ] CloudWatch.
 - [x] CloudTrail.
 
+### Which of the following procedures will help reduce your Amazon S3 costs?
 
+- [ ] Use the Import/Export feature to move old files automatically to Amazon Glacier.
+- [x] Use the right combination of storage classes based on different use cases.
+- [ ] Pick the right Availability Zone for your S3 bucket.
+- [ ] Move all the data stored in S3 standard to EBS.
+
+### What are the AWS services/features that can help you maintain a highly available and fault-tolerant architecture in AWS? (Choose TWO)
+
+- [ ] AWS Direct Connect.
+- [x] Amazon EC2 Auto Scaling.
+- [x] Elastic Load Balancer.
+- [ ] CloudFormation.
+- [ ] Network ACLs.
+
+
+### Which of the following activities may help reduce your AWS monthly costs?
+
+- [x] Enabling Amazon EC2 Auto Scaling for all of your workloads.
+- [ ] Using the AWS Network Load Balancer (NLB) to load balance the incoming HTTP requests.
+- [ ] Removing all of your Cost Allocation Tags.
+- [ ] Deploying your AWS resources across multiple Availability Zones.
+
+### What is the AWS service/feature that takes advantage of Amazon CloudFront’s globally distributed edge locations to transfer files to S3 with higher upload speeds?
+
+- [x] S3 Transfer Acceleration.
+- [ ] AWS WAF.
+- [ ] AWS Snowmobile.
+- [ ] AWS Snowball.
 
 # End
