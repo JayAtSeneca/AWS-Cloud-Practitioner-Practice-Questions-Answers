@@ -665,6 +665,20 @@
 - [ ] AWS X-Ray.
 - [x] AWS Config.
 
+### Which of the following services allows you to run containerized applications on a cluster of EC2 instances?
+
+- [x] Amazon ECS.
+- [ ] AWS Data Pipeline.
+- [ ] AWS Cloud9.
+- [ ] AWS Personal Health Dashboard.
+
+### Which of the following services will help businesses ensure compliance in AWS?
+
+- [ ] CloudFront.
+- [ ] CloudEndure Migration.
+- [ ] CloudWatch.
+- [x] CloudTrail.
+
 
 
 # End
