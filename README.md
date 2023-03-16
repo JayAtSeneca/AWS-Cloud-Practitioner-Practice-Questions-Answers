@@ -541,5 +541,33 @@
 - [ ] An online software store that allows Customers to launch pre-configured software with just few clicks.
 - [ ] A domain name system in the cloud.
 
+### What is the AWS service that enables you to manage all of your AWS accounts from a single master account?
+
+- [ ] AWS WAF.
+- [ ] AWS Trusted Advisor.
+- [x] AWS Organizations.
+- [ ] Amazon Config.
+
+### Which of the following EC2 instance purchasing options supports the Bring Your Own License (BYOL) model for almost every BYOL scenario?
+
+- [ ] Dedicated Instances.
+- [x] Dedicated Hosts.
+- [ ] On-demand Instances.
+- [ ] Reserved Instances.
+
+### Which of the following is one of the benefits of moving infrastructure from an on-premises data center to AWS?
+
+- [ ] Free support for all enterprise customers.
+- [ ] Automatic data protection.
+- [x] Reduced Capital Expenditure (CapEx).
+- [ ] AWS holds responsibility for managing customer applications.
+
+### Which of the following are important design principles you should adopt when designing systems on AWS? (Choose TWO)
+
+- [ ] Always use Global Services in your architecture rather than Regional Services.
+- [ ] Always choose to pay as you go.
+- [ ] Treat servers as fixed resources.
+- [x] Automate wherever possible.
+- [x] Remove single points of failure.
 
 # End
