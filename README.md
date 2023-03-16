@@ -570,4 +570,18 @@
 - [x] Automate wherever possible.
 - [x] Remove single points of failure.
 
+### Which AWS Service can be used to establish a dedicated, private network connection between AWS and your datacenter?
+
+- [x] AWS Direct Connect.
+- [ ] Amazon CloudFront.
+- [ ] AWS Snowball.
+- [ ] Amazon Route 53.
+
+### You are working on two projects that require completely different network configurations. Which AWS service or feature will allow you to isolate resources and network configurations?
+
+- [ ] Internet gateways.
+- [x] Virtual Private Cloud.
+- [ ] Security Groups.
+- [ ] Amazon CloudFront.
+
 # End
