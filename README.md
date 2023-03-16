@@ -606,6 +606,34 @@
 - [ ] Configuring Access Control Lists (ACLs).
 - [x] Hardware maintenance.
 
+### What is the AWS service that provides you the highest level of control over the underlying virtual infrastructure?
+
+- [ ] Amazon Redshift.
+- [ ] Amazon DynamoDB.
+- [x] Amazon EC2.
+- [ ] Amazon RDS.
+
+### What are the default security credentials that are required to access the AWS management console for an IAM user account?
+
+- [ ] MFA.
+- [ ] Security tokens.
+- [x] A user name and password.
+- [ ] Access keys.
+
+### In your on-premises environment, you can create as many virtual servers as you need from a single template. What can you use to perform the same in AWS?
+
+- [ ] IAM.
+- [ ] An internet gateway.
+- [ ] EBS Snapshot.
+- [x] AMI.
+
+### What are two advantages of using Cloud Computing over using traditional data centers? (Choose TWO)
+
+- [ ] Reserved Compute capacity.
+- [x] Eliminating Single Points of Failure (SPOFs).
+- [x] Distributed infrastructure.
+- [ ] Virtualized compute resources.
+- [ ] Dedicated hosting.
 
 
 # End
