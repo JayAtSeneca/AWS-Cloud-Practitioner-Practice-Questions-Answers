@@ -584,4 +584,28 @@
 - [ ] Security Groups.
 - [ ] Amazon CloudFront.
 
+### Which of the following services can help protect your web applications from SQL injection and other vulnerabilities in your application code?
+
+- [ ] Amazon Cognito.
+- [ ] AWS IAM.
+- [ ] Amazon Aurora.
+- [x] AWS WAF.
+
+### An organization needs to analyze and process a large number of data sets. Which AWS service should they use?
+
+- [x] Amazon EMR.
+- [ ] Amazon MQ.
+- [ ] Amazon SNS.
+- [ ] Amazon SQS.
+
+### Based on the AWS Shared Responsibility Model, which of the following are the sole responsibility of AWS? (Choose TWO)
+
+- [ ] Monitoring network performance.
+- [ ] Installing software on EC2 instances.
+- [x] Creating hypervisors.
+- [ ] Configuring Access Control Lists (ACLs).
+- [x] Hardware maintenance.
+
+
+
 # End
