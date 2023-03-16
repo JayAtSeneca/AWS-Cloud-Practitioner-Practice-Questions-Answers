@@ -709,4 +709,41 @@
 - [ ] AWS Snowmobile.
 - [ ] AWS Snowball.
 
+### Which of the following AWS security features is associated with an EC2 instance and functions to filter incoming traffic requests?
+
+- [ ] AWS X-Ray.
+- [ ] Network ACL.
+- [x] Security Groups.
+- [ ] VPC Flow logs.
+
+### Which AWS services can be used to improve the performance of a global application and reduce latency for its users? (Choose TWO)
+
+- [ ] AWS KMS.
+- [x] AWS Global accelerator.
+- [ ] AWS Direct Connect.
+- [ ] AWS Glue.
+- [x] Amazon CloudFront.
+
+### Using Amazon RDS falls under the shared responsibility model. Which of the following are customer responsibilities? (Choose TWO)
+
+- [x] Building the relational database schema.
+- [ ] Performing backups.
+- [x] Managing the database settings.
+- [ ] Patching the database software.
+- [ ] Installing the database software.
+
+### A company has a large amount of structured data stored in their on-premises data center. They are planning to migrate all the data to AWS, what is the most appropriate AWS database option?
+
+- [ ] Amazon DynamoDB.
+- [ ] Amazon SNS.
+- [x] Amazon RDS.
+- [ ] Amazon ElastiCache.
+
+### A company has created a solution that helps AWS customers improve their architectures on AWS. Which AWS program may support this company?
+
+- [x] APN Consulting Partners.
+- [ ] AWS TAM.
+- [ ] APN Technology Partners.
+- [ ] AWS Professional Services.
+
 # End
