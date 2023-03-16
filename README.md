@@ -746,4 +746,50 @@
 - [ ] APN Technology Partners.
 - [ ] AWS Professional Services.
 
+### What is the AWS serverless service that allows you to run your applications without any administrative burden?
+
+- [ ] Amazon LightSail.
+- [x] AWS Lambda.
+- [ ] Amazon RDS instances.
+- [ ] Amazon EC2 instances.
+
+### Jessica is managing an e-commerce web application in AWS. The application is hosted on six EC2 instances. One day, three of the instances crashed; but none of her customers were affected. What has Jessica done correctly in this scenario?
+
+- [ ] She has properly built an elastic system.
+- [x] She has properly built a fault tolerant system.
+- [ ] She has properly built an encrypted system.
+- [ ] She has properly built a scalable system.
+
+### Where can you store files in AWS? (Choose TWO)
+
+- [x] Amazon EFS.
+- [ ] Amazon SNS.
+- [x] Amazon EBS.
+- [ ] Amazon ECS.
+- [ ] Amazon EMR.
+
+### Which AWS service can be used to store and reliably deliver messages across distributed systems?
+
+- [x] Amazon Simple Queue Service.
+- [ ] AWS Storage Gateway.
+- [ ] Amazon Simple Email Service.
+- [ ] Amazon Simple Storage Service.
+
+### Which of the following describes the payment model that AWS makes available for customers that can commit to using Amazon EC2 over a one or 3-year term to reduce their total computing costs?
+
+- [ ] Pay less as AWS grows.
+- [ ] Pay as you go.
+- [ ] Pay less by using more.
+- [x] Save when you reserve.
+
+### A company is migrating its on-premises database to Amazon RDS. What should the company do to ensure Amazon RDS costs are kept to a minimum?
+
+- [ ] Right-size before and after migration.
+- [x] Use a Multi-Region Active-Passive architecture.
+- [ ] Combine On-demand Capacity Reservations with Saving Plans.
+- [ ] Use a Multi-Region Active-Active architecture.
+
+
+
+
 # End
