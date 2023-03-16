@@ -504,4 +504,42 @@
 - [ ] AWS Dedicated Hosts.
 - [x] Amazon VPC.
 
+### According to the AWS Shared responsibility model, which of the following are the responsibility of the customer? (Choose TWO)
+
+- [ ] Managing environmental events of AWS data centers.
+- [x] Protecting the confidentiality of data in transit in Amazon S3.
+- [ ] Controlling physical access to AWS Regions.
+- [ ] Ensuring that the underlying EC2 host is configured properly.
+- [x] Patching applications installed on Amazon EC2.
+
+### Which of the following AWS services can be used as a compute resource? (Choose TWO)
+
+- [ ] Amazon VPC.
+- [ ] Amazon CloudWatch.
+- [ ] Amazon S3.
+- [x] Amazon EC2.
+- [x] AWS Lambda.
+
+### Your company is designing a new application that will store and retrieve photos and videos. Which of the following services should you recommend as the underlying storage mechanism?
+
+- [ ] Amazon EBS.
+- [ ] Amazon SQS.
+- [x] Amazon S3.
+- [ ] Amazon Instance store.
+
+### Which of the following is equivalent to a user name and password and is used to authenticate your programmatic access to AWS services and APIs?
+
+- [ ] Instance Password.
+- [ ] Key pairs.
+- [x] Access Keys.
+- [ ] MFA.
+
+### What does Amazon ElastiCache provide?
+
+- [x] In-memory caching for read-heavy applications.
+- [ ] An Ehcache compatible in-memory data store.
+- [ ] An online software store that allows Customers to launch pre-configured software with just few clicks.
+- [ ] A domain name system in the cloud.
+
+
 # End
