@@ -790,7 +790,12 @@
 - [ ] Use a Multi-Region Active-Active architecture.
 
 
+### What is the primary storage service used by Amazon RDS database instances?
 
+- [ ] Amazon Glacier.
+- [x] Amazon EBS.
+- [ ] Amazon EFS.
+- [ ] Amazon S3.
 
 
 # End
