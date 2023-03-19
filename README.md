@@ -812,4 +812,28 @@
 - [ ] Amazon EBS.
 - [x] Amazon DynamoDB.
 
+### What are the Amazon RDS features that can be used to improve the availability of your database? (Choose TWO)
+
+- [ ] AWS Regions.
+- [x] Multi-AZ Deployment.
+- [ ] Automatic patching.
+- [x] Read Replicas.
+- [ ] Edge Locations.
+
+### Sarah has deployed an application in the Northern California (us-west-1) region. After examining the application’s traffic, she notices that about 30% of the traffic is coming from Asia. What can she do to reduce latency for the users in Asia?
+
+- [ ] Replicate the current resources across multiple Availability Zones within the same region.
+- [ ] Migrate the application to a hosting provider in Asia.
+- [ ] Recreate the website content.
+- [x] Create a CDN using CloudFront, so that content is cached at Edge Locations close to and in Asia.
+
+### An organization runs many systems and uses many AWS products. Which of the following services enables them to control how each developer interacts with these products?
+
+- [x] AWS Identity and Access Management.
+- [ ] Amazon RDS.
+- [ ] Network Access Control Lists.
+- [ ] Amazon EMR.
+
+
+
 # End
