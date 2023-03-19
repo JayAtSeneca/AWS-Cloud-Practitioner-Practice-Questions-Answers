@@ -835,5 +835,18 @@
 - [ ] Amazon EMR.
 
 
+### Using Amazon EC2 falls under which of the following cloud computing models?
+
+- [ ] Iaas & SaaS.
+- [x] IaaS.
+- [ ] SaaS.
+- [ ] PaaS.
+
+### Which of the below is a best-practice when building applications on AWS?
+
+- [ ] Strengthen physical security by applying the principle of least privilege.
+- [ ] Ensure that the application runs on hardware from trusted vendors.
+- [ ] Use IAM policies to maintain performance.
+- [x] Decouple the components of the application so that they run independently.
 
 # End
