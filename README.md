@@ -797,5 +797,19 @@
 - [ ] Amazon EFS.
 - [ ] Amazon S3.
 
+### A company is developing a new application using a microservices framework. The new application is having performance and latency issues. Which AWS Service should be used to troubleshoot these issues?
+
+- [ ] AWS CodePipeline.
+- [x] AWS X-Ray.
+- [ ] Amazon Inspector.
+- [ ] AWS CloudTrail.
+
+### Which of the following AWS services is designed with native Multi-AZ fault tolerance in mind? (Choose TWO)
+
+- [ ] Amazon Redshift.
+- [ ] AWS Snowball.
+- [x] Amazon Simple Storage Service.
+- [ ] Amazon EBS.
+- [x] Amazon DynamoDB.
 
 # End
