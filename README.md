@@ -849,4 +849,26 @@
 - [ ] Use IAM policies to maintain performance.
 - [x] Decouple the components of the application so that they run independently.
 
+### Your company is designing a new application that will store and retrieve photos and videos. Which of the following services should you recommend as the underlying storage mechanism?
+
+- [ ] Amazon EBS.
+- [ ] Amazon SQS.
+- [ ] Amazon Instance store.
+- [x] Amazon S3.
+
+### Amazon Glacier is an Amazon S3 storage class that is suitable for storing [...] & [...]. (Choose TWO)
+
+- [x] Active archives.
+- [ ] Dynamic websites’ assets.
+- [x] Long-term analytic data.
+- [ ] Active databases.
+- [ ] Cached data.
+
+### What does Amazon Elastic Beanstalk provide?
+
+- [ ] A PaaS solution to automate application deployment.
+- [x] A compute engine for Amazon ECS.
+- [ ] A scalable file storage solution for use with AWS and on-premises servers.
+- [ ] A NoSQL database service.
+
 # End
