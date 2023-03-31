@@ -454,6 +454,7 @@
 - [ ] AWS KMS.
 - [x] AWS MFA.
 
+
 ### A company is introducing a new product to their customers, and is expecting a surge in traffic to their web application. As part of their Enterprise Support plan, which of the following provides the company with architectural and scaling guidance?
 
 - [ ] AWS Knowledge Center.
