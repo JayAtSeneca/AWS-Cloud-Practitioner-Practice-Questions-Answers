@@ -120,6 +120,7 @@
 - [ ] Operating applications on behalf of customers.
 - [x] All of the physical security and most of the data/network security are taken care of for you.
 
+
 ### What is the advantage of the AWS-recommended practice of "decoupling" applications?
 
 - [ ] Allows treating an application as a single, cohesive unit.
