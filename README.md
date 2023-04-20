@@ -935,4 +935,30 @@
 - [ ] AWS OpsWorks.
 - [x] AWS CLI.
 
+
+### What are the connectivity options that can be used to build hybrid cloud architectures? (Choose TWO)
+
+- [ ] AWS Artifact.
+- [ ] AWS Cloud9.
+- [x] AWS Direct Connect.
+- [ ] AWS CloudTrail.
+- [x] AWS VPN.
+
+
+### A company has deployed a new web application on multiple Amazon EC2 instances. Which of the following should they use to ensure that the incoming HTTP traffic is distributed evenly across the instances?
+
+- [ ] AWS EC2 Auto Recovery.
+- [ ] AWS Auto Scaling.
+- [ ] AWS Network Load Balancer.
+- [x] AWS Application Load Balancer.
+
+
+### Which of the following AWS offerings is a MySQL-compatible relational database service that can scale capacity automatically based on demand?
+
+- [ ] Amazon Neptune.
+- [x] Amazon Aurora.
+- [ ] Amazon RDS for SQL Server.
+- [ ] Amazon RDS for PostgreSQL.
+
+
 # End
