@@ -960,5 +960,26 @@
 - [ ] Amazon RDS for SQL Server.
 - [ ] Amazon RDS for PostgreSQL.
 
+### Which of the following can help protect your EC2 instances from DDoS attacks? (Choose TWO)
+
+- [ ] AWS CloudHSM.
+- [x] Security Groups.
+- [ ] AWS Batch.
+- [ ] AWS IAM.
+- [x] Network Access Control Lists (Network ACLs).
+
+### What is the AWS data warehouse service that supports a high level of query performance on large amounts of datasets?
+
+- [x] Amazon Redshift.
+- [ ] Amazon Kinesis.
+- [ ] Amazon DynamoDB.
+- [ ]  Amazon RDS.
+
+### Which of the following should be considered when performing a TCO analysis to compare the costs of running an application on AWS instead of on-premises?
+
+- [ ] Application development.
+- [ ] Market research.
+- [ ] Business analysis.
+- [x] Physical hardware.
 
 # End
