@@ -982,6 +982,41 @@
 - [ ] Business analysis.
 - [x] Physical hardware.
 
+### How are AWS customers billed for Linux-based Amazon EC2 usage?
 
+- [x] EC2 instances will be billed on one second increments, with a minimum of one minute.
+- [ ] EC2 instances will be billed on one hour increments, with a minimum of one day.
+- [ ] EC2 instances will be billed on one minute increments, with a minimum of one hour.
+- [ ] EC2 instances will be billed on one day increments, with a minimum of one month.
+
+
+### Which of the following will impact the price paid for an EC2 instance? (Choose TWO)
+
+- [x] Instance type.
+- [ ] The Availability Zone where the instance is provisioned.
+- [x] Load balancing.
+- [ ] Number of buckets.
+- [ ] Number of private IPs.
+
+### A customer spent a lot of time configuring a newly deployed Amazon EC2 instance. After the workload increases, the customer decides to provision another EC2 instance with an identical configuration. How can the customer achieve this?
+
+- [ ] By creating an AWS Config template from the old instance and launching a new instance from it.
+- [ ] By creating an EBS Snapshot of the old instance.
+- [ ] By installing Aurora on EC2 and launching a new instance from it.
+- [x] By creating an AMI from the old instance and (Correct) launching a new instance from it.
+
+### A company uses AWS Organizations to manage all of its AWS accounts. Which of the following allows the company to restrict what services and actions are allowed in each individual account?
+
+- [ ] IAM Principals.
+- [x] AWS Service Control Policies (SCPs).
+- [ ] IAM policies.
+- [ ] AWS Fargate.
+
+### Which of the following statements describes the AWS Cloud’s agility?
+
+- [ ] AWS allows you to host your applications in multiple regions around the world.
+- [ ] AWS provides customizable hardware at the lowest possible cost.
+- [x] AWS allows you to provision resources in minutes.
+- [ ] AWS allows you to pay upfront to reduce costs.
 
 # End
