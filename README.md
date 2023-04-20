@@ -874,5 +874,28 @@
 - [ ] A scalable file storage solution for use with AWS and on-premises servers.
 - [ ] A NoSQL database service.
 
+### What is the AWS service that performs automated network assessments of Amazon EC2 instances to check for vulnerabilities?
+
+- [ ] Amazon Kinesis.
+- [ ] Security groups.
+- [x] Amazon Inspector.
+- [ ] AWS Network Access Control Lists.
+
+### Under the Shared Responsibility Model, which of the following controls do customers fully inherit from AWS? (Choose TWO)
+
+- [ ] Patch management controls.
+- [ ] Database controls.
+- [ ] Awareness & Training.
+- [x] Environmental controls.
+- [x] Physical controls.
+
+### A company needs to host a database in Amazon RDS for at least three years. Which of the following options would be the most cost-effective solution?
+
+- [ ] Reserved instances - No Upfront.
+- [x] Reserved instances - Partial Upfront.
+- [ ] On-Demand instances.
+- [ ] Spot Instances.
+
+
 
 # End
