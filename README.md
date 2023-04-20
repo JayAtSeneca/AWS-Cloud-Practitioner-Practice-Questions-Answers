@@ -896,6 +896,43 @@
 - [ ] On-Demand instances.
 - [ ] Spot Instances.
 
+### Your application has recently experienced significant global growth, and international users are complaining of high latency. What is the AWS characteristic that can help improve your international users’ experience?
 
+- [ ] Elasticity.
+- [x] Global reach.
+- [ ] Data durability.
+- [ ] High availability.
+
+### Savings Plans are available for which of the following AWS compute services? (Choose TWO)
+
+- [ ] AWS Batch.
+- [ ] AWS Outposts.
+- [ ] Amazon Lightsail.
+- [x] Amazon EC2.
+- [x] AWS Lambda.
+
+### A company has business critical workloads hosted on AWS and they are unwilling to accept any downtime. Which of the following is a recommended best practice to protect their workloads in the event of an unexpected natural disaster?
+
+- [ ] Replicate data across multiple Edge Locations worldwide and use Amazon CloudFront to perform automatic failover in the event of an outage.
+- [ ] Deploy AWS resources across multiple Availability Zones within the same AWS Region.
+- [ ] Create point-in-time backups in another subnet and recover this data when a disaster occurs.
+- [x] Deploy AWS resources to another AWS Region and implement an Active-Active disaster recovery strategy.
+
+
+### Which statement is correct with regards to AWS service limits? (Choose TWO)
+
+- [x] You can contact AWS support to increase the service limits.
+- [ ] Each IAM user has the same service limit.
+- [ ] There are no service limits on AWS.
+- [x] You can use the AWS Trusted Advisor to monitor your service limits.
+- [ ] The Amazon Simple Email Service is responsible for sending email notifications when usage approaches a service limit.
+
+
+### What is the AWS tool that enables you to use scripts to manage all AWS services and resources?
+
+- [ ] AWS Console.
+- [ ] AWS Service Catalog.
+- [ ] AWS OpsWorks.
+- [x] AWS CLI.
 
 # End
