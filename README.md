@@ -1019,4 +1019,12 @@
 - [x] AWS allows you to provision resources in minutes.
 - [ ] AWS allows you to pay upfront to reduce costs.
 
+### What are the benefits of using the Amazon Relational Database Service? (Choose TWO)
+
+- [x] Lower administrative burden.
+- [ ] Complete control over the underlying host.
+- [x] Resizable compute capacity.
+- [ ] Scales automatically to larger or smaller instance types.
+- [ ] Supports the document and key-value data structure.
+
 # End
