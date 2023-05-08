@@ -1027,4 +1027,14 @@
 - [ ] Scales automatically to larger or smaller instance types.
 - [ ] Supports the document and key-value data structure.
 
+### What is the connectivity option that uses Internet Protocol Security (IPSec) to establish encrypted connectivity between an on-premises network and the AWS Cloud?
+
+- [ ] Internet Gateway.
+- [ ] AWS IQ.
+- [ ] AWS Direct Connect.
+- [x] AWS Site-to-Site VPN.
+
+
+
+
 # End
