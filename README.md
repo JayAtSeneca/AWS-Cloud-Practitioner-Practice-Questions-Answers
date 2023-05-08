@@ -1035,6 +1035,22 @@
 - [x] AWS Site-to-Site VPN.
 
 
+### What is the minimum level of AWS support that provides 24x7 access to technical support engineers via phone and chat?
+
+- [ ] Enterprise Support.
+- [ ] Developer Support.
+- [ ] Basic Support.
+- [x] Business Support.
+
+
+### Which of the following is used to control network traffic in AWS? (Choose TWO)
+
+- [x] Network Access Control Lists (NACLs).
+- [ ] Key Pairs.
+- [ ] Access Keys.
+- [ ] IAM Policies.
+- [x] Security Groups.
+
 
 
 # End
