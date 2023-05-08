@@ -1081,6 +1081,27 @@
 - [x] AWS Elastic Beanstalk.
 - [ ] Amazon Macie.
 
+### Which AWS service provides cost-optimization recommendations?
+
+- [x] AWS Trusted Advisor.
+- [ ] AWS Pricing Calculator.
+- [ ] Amazon QuickSight.
+- [ ] AWS X-Ray.
+
+### A company has hundreds of VPCs in multiple AWS Regions worldwide. What service does AWS offer to simplify the connection management among the VPCs?
+
+- [ ] VPC Peering.
+- [x] AWS Transit Gateway.
+- [ ] Amazon Connect.
+- [ ] Security Groups.
+
+### What is one benefit and one drawback of buying a reserved EC2 instance? (Select TWO)
+
+- [ ] Instances can be shut down by AWS at any time with no notification.
+- [x] Reserved instances require at least a one-year pricing commitment.
+- [ ] There is no additional charge for using dedicated instances.
+- [x] Reserved instances provide a significant discount compared to on-demand instances.
+- [ ]Reserved instances are best suited for periodic workloads.
 
 
 # End
