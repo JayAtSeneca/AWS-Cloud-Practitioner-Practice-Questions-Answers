@@ -1051,6 +1051,26 @@
 - [ ] IAM Policies.
 - [x] Security Groups.
 
+### A company has developed a media transcoding application in AWS. The application is designed to recover quickly from hardware failures. Which one of the following types of instance would be the most cost-effective choice to use?
 
+- [ ] Reserved instances.
+- [x] Spot Instances.
+- [ ] On-Demand instances.
+- [ ] Dedicated instances.
+
+### Which AWS Service provides the current status of all AWS Services in all AWS Regions?
+
+- [x] AWS Service Health Dashboard.
+- [ ] AWS Management Console.
+- [ ] Amazon CloudWatch.
+- [ ] AWS Personal Health Dashboard.
+
+
+### Which AWS Service can be used to register a new domain name?
+
+- [ ] Amazon Personalize.
+- [x] Amazon Route 53.
+- [ ] AWS KMS.
+- [ ] AWS Config.
 
 # End
