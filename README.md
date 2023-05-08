@@ -1073,4 +1073,14 @@
 - [ ] AWS KMS.
 - [ ] AWS Config.
 
+### App development companies move their business to AWS to reduce time-to-market and improve customer satisfaction, what are the AWS automation tools that help them deploy their applications faster? (Choose TWO)
+
+- [x] AWS CloudFormation.
+- [ ] AWS Migration Hub.
+- [ ] AWS IAM.
+- [x] AWS Elastic Beanstalk.
+- [ ] Amazon Macie.
+
+
+
 # End
