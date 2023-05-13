@@ -631,6 +631,7 @@
 - [ ] EBS Snapshot.
 - [x] AMI.
 
+
 ### What are two advantages of using Cloud Computing over using traditional data centers? (Choose TWO)
 
 - [ ] Reserved Compute capacity.
