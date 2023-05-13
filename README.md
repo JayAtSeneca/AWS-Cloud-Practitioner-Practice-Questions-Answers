@@ -464,6 +464,7 @@
 - [x] Infrastructure Event Management.
 - [ ] AWS Support Concierge Service.
 
+
 ### You work as an on-premises MySQL DBA. The work of database configuration, backups, patching, and DR can be time-consuming and repetitive. Your company has decided to migrate to the AWS Cloud. Which of the following can help save time on database maintenance so you can focus on data architecture and performance?
 
 - [x] Amazon RDS.
