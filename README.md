@@ -413,6 +413,7 @@
 - [x] AWS Auto Scaling.
 - [ ] AWS Cost Explorer.
 
+
 ### Which S3 storage class is best for data with unpredictable access patterns?
 
 - [x] Amazon S3 Intelligent-Tiering.
