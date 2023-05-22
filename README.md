@@ -862,6 +862,7 @@
 - [ ] Amazon Instance store.
 - [x] Amazon S3.
 
+
 ### Amazon Glacier is an Amazon S3 storage class that is suitable for storing [...] & [...]. (Choose TWO)
 
 - [x] Active archives.
