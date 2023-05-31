@@ -582,6 +582,8 @@
 - [ ] AWS Snowball.
 - [ ] Amazon Route 53.
 
+
+
 ### You are working on two projects that require completely different network configurations. Which AWS service or feature will allow you to isolate resources and network configurations?
 
 - [ ] Internet gateways.
