@@ -428,6 +428,7 @@
 - [ ] Amazon S3 Standard.
 - [ ] Amazon S3 Standard-Infrequent Access.
 
+
 ### What is the AWS database service that allows you to upload data structured in key-value format?
 
 - [x] Amazon DynamoDB.
