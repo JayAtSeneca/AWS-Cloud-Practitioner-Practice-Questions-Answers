@@ -1110,5 +1110,11 @@
 - [x] Reserved instances provide a significant discount compared to on-demand instances.
 - [ ]Reserved instances are best suited for periodic workloads.
 
+### Why does every AWS Region contain multiple Availability Zones?
+
+- [x] Multiple Availability Zones allows you to build resilient and highly available architectures.
+- [ ] Multiple Availability Zones results in lower total cost compared to deploying in a single Availability Zone.
+- [ ] Multiple Availability Zones allows for data replication and global reach.
+- [ ] Multiple Availability Zones within a region increases the storage capacity available in that region.
 
 # End
