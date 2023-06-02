@@ -1176,6 +1176,13 @@
 - [x] Dedicated instances.
 - [ ] Reserved instances.
 
+### A customer is planning to move billions of images and videos to be stored on Amazon S3. The customer has approximately 60 Petabytes of data to move. Which of the following AWS Services is the best choice to transfer the data to AWS?
+
+- [ ] Snowball.
+- [x] S3 Transfer Acceleration.
+- [ ] Snowmobile.
+- [ ] Amazon VPC.
+
 
 
 # End
