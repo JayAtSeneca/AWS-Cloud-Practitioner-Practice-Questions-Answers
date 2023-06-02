@@ -1131,4 +1131,13 @@
 - [ ] Reserved Instances - All Upfront.
 - [ ] Reserved Instances - No Upfront.
 
+### Data security is one of the top priorities of AWS. How does AWS deal with old storage devices that have reached the end of their useful life?
+
+- [ ] AWS sells the old devices to other hosting providers.
+- [x] AWS destroys the old devices in accordance with industry-standard practices.
+- [ ] AWS sends the old devices for remanufacturing.
+- [ ] AWS stores the old devices in a secure place.
+
+
+
 # End
