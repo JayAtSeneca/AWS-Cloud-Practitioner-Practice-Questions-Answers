@@ -1117,4 +1117,13 @@
 - [ ] Multiple Availability Zones allows for data replication and global reach.
 - [ ] Multiple Availability Zones within a region increases the storage capacity available in that region.
 
+### What is the most cost-effective purchasing option for running a set of EC2 instances that must always be available for a period of two months?
+
+- [x] On-Demand Instances.
+- [ ] Spot Instances.
+- [ ] Reserved Instances - All Upfront.
+- [ ] Reserved Instances - No Upfront.
+
+
+
 # End
