@@ -1162,6 +1162,13 @@
 - [x] Operating system maintenance.
 - [ ] Data management.
 
+### How do ELBs improve the reliability of your application?
+
+- [ ] By distributing traffic across multiple S3 buckets.
+- [ ] By replicating data to multiple availability zones.
+- [ ] By creating database Read Replicas.
+- [x] By ensuring that only healthy targets receive traffic.
+
 
 
 # End
