@@ -1169,6 +1169,13 @@
 - [ ] By creating database Read Replicas.
 - [x] By ensuring that only healthy targets receive traffic.
 
+### A company needs to migrate their website from on-premises to AWS. Security is a major concern for them, so they need to host their website on hardware that is NOT shared with other AWS customers. Which of the following EC2 instance options meets this requirement?
+
+- [ ] On-demand instances.
+- [ ] Spot instances.
+- [x] Dedicated instances.
+- [ ] Reserved instances.
+
 
 
 # End
