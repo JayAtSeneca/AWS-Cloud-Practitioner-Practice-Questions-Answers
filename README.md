@@ -1146,4 +1146,14 @@
 - [x] AWS Identity & Access Management.
 - [ ] AWS Data Pipeline.
 
+### Which of the following AWS services scale automatically without your intervention? (Choose TWO)
+
+- [ ] Amazon EC2.
+- [x] Amazon S3.
+- [x] AWS Lambda.
+- [ ] Amazon EMR.
+- [ ] Amazon EBS.
+
+
+
 # End
