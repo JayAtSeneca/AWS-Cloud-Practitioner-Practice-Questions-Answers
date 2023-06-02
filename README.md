@@ -1124,6 +1124,11 @@
 - [ ] Reserved Instances - All Upfront.
 - [ ] Reserved Instances - No Upfront.
 
+### What is the most cost-effective purchasing option for running a set of EC2 instances that must always be available for a period of two months?
 
+- [x] On-Demand Instances.
+- [ ] Spot Instances.
+- [ ] Reserved Instances - All Upfront.
+- [ ] Reserved Instances - No Upfront.
 
 # End
