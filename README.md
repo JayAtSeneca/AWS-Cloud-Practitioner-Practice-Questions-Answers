@@ -1138,6 +1138,12 @@
 - [ ] AWS sends the old devices for remanufacturing.
 - [ ] AWS stores the old devices in a secure place.
 
+### A developer needs to set up an SSL security certificate for a client's eCommerce website in order to use the HTTPS protocol. Which of the following AWS services can be used to deploy the required SSL server certificates? (Choose TWO)
 
+- [ ] Amazon Route 53.
+- [x] AWS ACM.
+- [ ] AWS Directory Service.
+- [x] AWS Identity & Access Management.
+- [ ] AWS Data Pipeline.
 
 # End
