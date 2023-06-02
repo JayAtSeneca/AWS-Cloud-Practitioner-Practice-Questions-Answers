@@ -1154,6 +1154,14 @@
 - [ ] Amazon EMR.
 - [ ] Amazon EBS.
 
+### A company is planning to migrate an application from Amazon EC2 to AWS Lambda to use a serverless architecture. Which of the following will be the responsibility of AWS after migration? (Choose TWO)
+
+- [ ] Application management.
+- [x] Capacity management.
+- [ ] Access control.
+- [x] Operating system maintenance.
+- [ ] Data management.
+
 
 
 # End
