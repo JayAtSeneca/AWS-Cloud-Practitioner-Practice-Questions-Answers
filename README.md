@@ -1191,6 +1191,15 @@
 - [ ] Amazon S3 Standard.
 - [ ] Amazon EBS.
 
+### Which AWS Service is used to manage user permissions?
+
+- [ ] Security Groups.
+- [ ] Amazon ECS.
+- [x] AWS IAM.
+- [ ] AWS Support.
+
+
+
 
 
 # End
