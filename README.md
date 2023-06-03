@@ -1184,5 +1184,13 @@
 - [ ] Amazon VPC.
 
 
+### A company plans to migrate a large amount of archived data to AWS. The archived data must be maintained for a period of 5 years and must be retrievable within 5 hours of a request. What is the most cost-effective AWS storage service to use?
+
+- [x] Amazon S3 Glacier.
+- [ ] Amazon EFS.
+- [ ] Amazon S3 Standard.
+- [ ] Amazon EBS.
+
+
 
 # End
