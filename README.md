@@ -1229,4 +1229,11 @@
 - [ ] Eliminates the need to encrypt data.
 - [ ] Allows developers to control all patching related activities.
 
+### What is the AWS’ recommendation regarding access keys?
+
+- [ ] Delete all access keys and use passwords instead.
+- [ ] Only share them with trusted people.
+- [x] Rotate them regularly.
+- [ ] Save them within your application code.
+
 # End
