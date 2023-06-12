@@ -1221,4 +1221,12 @@
 - [ ] Eliminates the need to encrypt data.
 - [ ] Allows developers to control all patching related activities.
 
+### What are the benefits of using an AWS-managed service? (Choose TWO)
+
+- [ ] Provides complete control over the virtual infrastructure.
+- [x] Allows customers to deliver new solutions faster.
+- [x] Lowers operational complexity.
+- [ ] Eliminates the need to encrypt data.
+- [ ] Allows developers to control all patching related activities.
+
 # End
