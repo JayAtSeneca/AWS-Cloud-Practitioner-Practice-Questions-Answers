@@ -1206,7 +1206,12 @@
 - [x] Enterprise Support.
 - [ ] Standard Support.
 
+### A company needs to track resource changes using the API call history. Which AWS service can help the company achieve this goal?
 
+- [ ] AWS Config.
+- [x] Amazon CloudWatch.
+- [ ] AWS CloudTrail.
+- [ ] AWS CloudFormation.
 
 
 # End
